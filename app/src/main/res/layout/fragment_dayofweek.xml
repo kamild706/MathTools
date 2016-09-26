@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:theme="@style/TextLabel">
+
+        <android.support.design.widget.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:hint="@string/day"
+                android:id="@+id/day"
+                android:inputType="number"
+                android:maxLength="2"/>
+
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:theme="@style/TextLabel">
+
+        <android.support.design.widget.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:hint="@string/month"
+                android:id="@+id/month"
+                android:inputType="number"
+                android:maxLength="2"/>
+
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:theme="@style/TextLabel">
+
+        <android.support.design.widget.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:hint="@string/year"
+                android:id="@+id/year"
+                android:inputType="number"
+                android:maxLength="4"/>
+
+    </android.support.design.widget.TextInputLayout>
+
+    <Switch
+            android:layout_marginTop="15dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:switchMinWidth="50dp"
+            android:id="@+id/hint_switch"
+            android:textColor="@color/labelTextColorHint"
+            android:text="@string/show_explanation"
+            android:layout_gravity="center_horizontal"
+            android:textSize="21sp"/>
+    <Button
+            android:layout_marginTop="15dp"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:background="@color/buttonBackgroundColor"
+            android:textColor="@color/myTextColor"
+            android:text="@string/go"
+            android:id="@+id/button"
+            android:layout_gravity="center_horizontal"/>
+
+    <ScrollView
+            android:layout_marginTop="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/scrollView"
+            android:layout_gravity="center_horizontal">
+
+        <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView"
+                android:textSize="23sp"
+                android:textColor="@color/myTextColor"/>
+    </ScrollView>
+
+
+</LinearLayout>

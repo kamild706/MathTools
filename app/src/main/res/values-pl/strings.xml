@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MathTools</string>
+    <string name="settings">Ustawienia</string>
+
+    <string name="year">Rok</string>
+    <string name="month">Miesiąc</string>
+    <string name="day">Dzień</string>
+
+    <string name="sunday">Niedziela</string>
+    <string name="monday">Poniedziałek</string>
+    <string name="tuesday">Wtorek</string>
+    <string name="wednesday">Środa</string>
+    <string name="thursday">Czwartek</string>
+    <string name="friday">Piątek</string>
+    <string name="saturday">Sobota</string>
+
+    <string name="january">Styczeń</string>
+    <string name="february">Luty</string>
+    <string name="march">Marzec</string>
+    <string name="april">Kwiecień</string>
+    <string name="may">Maj</string>
+    <string name="june">Czerwiec</string>
+    <string name="july">Lipiec</string>
+    <string name="august">Sierpień</string>
+    <string name="september">Wrzesień</string>
+    <string name="october">Październik</string>
+    <string name="november">Listopad</string>
+    <string name="december">Grudzień</string>
+
+    <string name="january_genitive">stycznia</string>
+    <string name="february_genitive">lutego</string>
+    <string name="march_genitive">marca</string>
+    <string name="april_genitive">kwietnia</string>
+    <string name="may_genitive">maja</string>
+    <string name="june_genitive">czerwca</string>
+    <string name="july__genitive">lipca</string>
+    <string name="august_genitive">sierpnia</string>
+    <string name="september_genitive">września</string>
+    <string name="october_genitive">października</string>
+    <string name="november_genitive">listopada</string>
+    <string name="december_genitive">grudnia</string>
+
+    <string name="show_explanation">Pokaż wyjaśnienie</string>
+
+    <string name="day_of_week">Dzień tygodnia</string>
+    <string name="combinations">Kombinacje</string>
+    <string name="management">Zarządzanie</string>
+    <string name="about">O aplikacji</string>
+    <string name="go">Licz</string>
+    <string name="is">to</string>
+
+    <string name="set">zbiór</string>
+    <string name="subset">elementy</string>
+    <string name="without_repetitions">Bez powtórzeń</string>
+    <string name="with_repetitions">Z powtórzeniami</string>
+    <string name="improper_values">Podane wartości są nieprawidłowe</string>
+    <string name="improper_date">Podana data jest nieprawidłowa</string>
+    <string name="permutations">Permutacje</string>
+    <string name="find_divisors">Dzielniki liczby</string>
+    <string name="find_factors">Czynniki pierwsze</string>
+    <string name="arithmetic_sequence">Ciąg arytmetyczny</string>
+    <string name="multiples_generator">Wielokrotności liczby</string>
+    <string name="prime_numbers_generator">Liczby pierwsze</string>
+    <string name="modular_equation_solver">Równanie modulo</string>
+    <string name="greatest_common_divisor">NWD</string>
+    <string name="least_common_multiple">NWW</string>
+    <string name="rising_factorial">Potęga rosnąca</string>
+    <string name="base">Podstawa</string>
+    <string name="exponent">Wykładnik</string>
+    <string name="number">Liczba</string>
+    <string name="cannot_process_that_value">Nie mogę przetworzyć tej wartości</string>
+    <string name="count">Ilość</string>
+    <string name="calculating">Obliczanie</string>
+    <string name="can_take_a_second">To moze chwilę zająć…</string>
+    <string name="calc_sum">Oblicz sumę</string>
+    <string name="calc_product">Oblicz iloczyn</string>
+    <string name="no_solution">Równanie nie posiada rozwiązania</string>
+    <string name="combinatorics">Kombinatoryka</string>
+    <string name="numbers">Liczbowe</string>
+    <string name="two_positive_numbers">Wprowadź conajmniej dwie dodatnie liczby</string>
+
+    <string-array name="langArray">
+        <item>Angielski</item>
+        <item>Polski</item>
+    </string-array>
+
+    <string name="app_language">Język aplikacji</string>
+    <string name="select_language">Wybierz język interfejsu</string>
+    <string name="general">Ogólne</string>
+</resources>

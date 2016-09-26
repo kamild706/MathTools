@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">MathTools</string>
+    <string name="settings">Settings</string>
+
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+
+    <string name="year">Year</string>
+    <string name="month">Month</string>
+    <string name="day">Day</string>
+
+    <string name="sunday">Sunday</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+
+    <string name="january">January</string>
+    <string name="february">February</string>
+    <string name="march">March</string>
+    <string name="april">April</string>
+    <string name="may">May</string>
+    <string name="june">June</string>
+    <string name="july">July</string>
+    <string name="august">August</string>
+    <string name="september">September</string>
+    <string name="october">October</string>
+    <string name="november">November</string>
+    <string name="december">December</string>
+
+    <string name="january_genitive">of January</string>
+    <string name="february_genitive">of February</string>
+    <string name="march_genitive">of March</string>
+    <string name="april_genitive">of April</string>
+    <string name="may_genitive">of May</string>
+    <string name="june_genitive">of June</string>
+    <string name="july__genitive">of July</string>
+    <string name="august_genitive">of August</string>
+    <string name="september_genitive">of September</string>
+    <string name="october_genitive">of October</string>
+    <string name="november_genitive">of November</string>
+    <string name="december_genitive">of December</string>
+
+    <string name="show_explanation">Show explanation</string>
+
+    <string name="day_of_week">Day of week</string>
+    <string name="combinations">Combinations</string>
+    <string name="management">Management</string>
+    <string name="about">About</string>
+    <string name="go">GO</string>
+    <string name="is">is</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="set">set</string>
+    <string name="subset">elements</string>
+    <string name="n" translatable="false">n</string>
+    <string name="k" translatable="false">k</string>
+    <string name="without_repetitions">Without repetitions</string>
+    <string name="with_repetitions">With repetitions</string>
+    <string name="improper_values">Given values are improper</string>
+    <string name="improper_date">Given date is improper</string>
+    <string name="permutations">Permutations</string>
+    <string name="find_divisors">Find divisors</string>
+    <string name="find_factors">Find factors</string>
+    <string name="arithmetic_sequence">Arithmetic sequence</string>
+    <string name="multiples_generator">Multiples generator</string>
+    <string name="prime_numbers_generator">Prime numbers generator</string>
+    <string name="modular_equation_solver">Modular equation solver</string>
+    <string name="greatest_common_divisor">Greatest common divisor</string>
+    <string name="least_common_multiple">Least common multiple</string>
+    <string name="rising_factorial">Rising factorial</string>
+    <string name="base">Base</string>
+    <string name="exponent">Exponent</string>
+    <string name="number">Number</string>
+    <string name="cannot_process_that_value">I cannot process that value</string>
+    <string name="count">Count</string>
+    <string name="calculating">Calculating</string>
+    <string name="can_take_a_second">It can take a minute…</string>
+    <string name="r" translatable="false">r</string>
+    <string name="a" translatable="false">a</string>
+    <string name="calc_sum">Calc sum</string>
+    <string name="calc_product">Calc product</string>
+    <string name="b" translatable="false">b</string>
+    <string name="c" translatable="false">c</string>
+    <string name="no_solution">There is no solution</string>
+    <string name="combinatorics">Combinatorics</string>
+    <string name="numbers">Numbers</string>
+    <string name="two_positive_numbers">Enter at least two positive numbers</string>
+
+    <string-array name="langArray">
+        <item>English</item>
+        <item>Polish</item>
+    </string-array>
+
+    <string name="app_language">App Language</string>
+    <string name="select_language">Select the language of interface</string>
+    <string name="general">General</string>
+</resources>
