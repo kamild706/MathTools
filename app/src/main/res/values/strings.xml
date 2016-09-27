@@ -97,4 +97,10 @@
     <string name="app_language">App Language</string>
     <string name="select_language">Select the language of interface</string>
     <string name="general">General</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="new_base">New base</string>
+    <string name="number_base_converter">Number base converter</string>
+    <string translatable="false" name="modulo_formula">ax ≡ b (mod c)</string>
 </resources>

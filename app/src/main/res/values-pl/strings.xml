@@ -88,4 +88,6 @@
     <string name="app_language">Język aplikacji</string>
     <string name="select_language">Wybierz język interfejsu</string>
     <string name="general">Ogólne</string>
+    <string name="new_base">Nowa podstawa</string>
+    <string name="number_base_converter">Konwerter systemów liczbowych</string>
 </resources>

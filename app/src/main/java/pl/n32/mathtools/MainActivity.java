@@ -108,6 +108,9 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             case R.id.nav_calendar:
                 newFragment = new DayOfWeek();
                 break;
+            case R.id.nav_nbc:
+                newFragment = new NumberBaseConversion();
+                break;
             case R.id.nav_combination:
                 newFragment = new Combination();
                 break;

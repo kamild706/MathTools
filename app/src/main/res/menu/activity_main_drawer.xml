@@ -10,6 +10,10 @@
                 android:id="@+id/nav_sequence"
                 android:icon="@drawable/ic_functions_white_24dp"
                 android:title="@string/arithmetic_sequence"/>
+        <item
+                android:id="@+id/nav_nbc"
+                android:icon="@drawable/ic_functions_white_24dp"
+                android:title="@string/number_base_converter"/>
     </group>
 
     <item android:title="@string/combinatorics">
